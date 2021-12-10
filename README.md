@@ -1,0 +1,1 @@
+Attackers can directly construct malicious requests to trigger remote code execution vulnerabilities. Vulnerability exploitation does not require special configuration, Apache Struts2, Apache Solr, Apache Druid, Apache Flink, etc. are all affected
